@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExampleProj</string>
+    <string name="history">История героя:</string>
+</resources>
